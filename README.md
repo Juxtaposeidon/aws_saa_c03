@@ -2,13 +2,13 @@
 
 Condensed, exam-focused notes for the **AWS Certified Solutions Architect – Associate (SAA-C03)** exam, covering compute, storage, networking, databases, integration, security, analytics, migration, cost and disaster recovery.
 
-Written while preparing for the exam and **fact-checked against AWS documentation **.
+Written while preparing for the exam and **fact-checked against AWS documentation**.
 
 ## Why these notes
 
+- **Confusable pairs side by side.** Security Groups vs NACL, Multi-AZ vs read replicas, SSE-S3 vs SSE-KMS vs SSE-C, CloudFront vs Global Accelerator, Cognito User Pools vs Identity Pools.
 - **Caveats that cost real points.** Limitations and gotchas the exam loves to test.
 - **Exam triggers.** Scenario phrases mapped straight to the service that answers them ("On-prem + S3 + SMB/NFS + cache" → S3 File Gateway).
-- **Confusable pairs side by side.** SG vs NACL, Multi-AZ vs read replicas, SSE-S3 vs SSE-KMS vs SSE-C, CloudFront vs Global Accelerator, Cognito User Pools vs Identity Pools.
 - **Current limits, not stale ones.** Where AWS has recently raised a limit, the notes give the current figure *and* the older one.
 
 ## Disclaimer
