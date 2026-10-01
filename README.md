@@ -18,7 +18,7 @@ These aren't foundational. To understand the concepts, you'll need a full course
 ## How to use
 
 - **Browse by topic** using the contents below. Every page links to the previous/next topic.
-- **Prefer one document?** [Download the full PDF](https://github.com/kennielima/aws-saa-c03-notes/raw/main/pdf/AWS-SAA-C03-Study-Notes.pdf) 📄or [view on Google Docs](https://docs.google.com/document/d/15-K-u6Yxu5JlswaSEd3mkbqK2KCZPsZGCOEKbND60_c/edit?usp=sharing) 📝
+- **Prefer one document?** [Download the full PDF](https://github.com/kennielima/aws_saa_c03/blob/main/pdf/AWS_SAA_Study_Notes.pdf) 📄or [view on Google Docs](https://docs.google.com/document/d/15-K-u6Yxu5JlswaSEd3mkbqK2KCZPsZGCOEKbND60_c/edit?usp=sharing) 📝
 - **Review strategy:** pair these notes with timed practice exams. Notes build recall; practice questions build the pattern recognition the scenario-based exam actually tests.
 
 ## Contents
