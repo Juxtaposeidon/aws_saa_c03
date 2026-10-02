@@ -3,6 +3,7 @@
 Condensed, exam-focused notes for the **AWS Certified Solutions Architect – Associate (SAA-C03)** exam, covering compute, storage, networking, databases, integration, security, analytics, migration, cost and disaster recovery.
 
 Written while preparing for the exam and **fact-checked against AWS documentation**.
+- **Prefer one document?** [Download the full PDF](https://github.com/kennielima/aws_saa_c03/blob/main/pdf/AWS_SAA_Study_Notes.pdf) 📄or [view on Google Docs](https://docs.google.com/document/d/15-K-u6Yxu5JlswaSEd3mkbqK2KCZPsZGCOEKbND60_c/edit?usp=sharing) 📝
 
 ## Why these notes
 
